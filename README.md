@@ -13,7 +13,7 @@
 
 ## Aprendizados
 
-Aqui neste repositório eu apliquei muito meus conhecimentos em imagens, principalmente noss efeitos parallax, também consegui usar um pouco da propriedade `min-height`, ainda estou aprendendo sobre ela. 
+Aqui neste repositório eu apliquei muito meus conhecimentos em imagens, principalmente nos efeitos parallax, também consegui usar um pouco da propriedade `min-height`, ainda estou aprendendo sobre ela. 
 
 ## Como Executar o Projeto
 
