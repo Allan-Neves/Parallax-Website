@@ -34,6 +34,7 @@ body, html {
     letter-spacing: 8px;
     font-size: 27px;
     text-shadow: 3px 2px 8px black;
+    text-align: center;
 }
 
 .section-light {
